@@ -1,0 +1,9 @@
+body,html{
+  background-color: #242424;
+  color: aqua;
+  padding: 1% 2%;
+}
+
+button{
+  margin: 6px;
+}
